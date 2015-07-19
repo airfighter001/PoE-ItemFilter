@@ -1,0 +1,30 @@
+Show 
+    LinkedSockets >= 4
+    SetFontSize 45 
+    SetBackgroundColor 255 0 0
+
+Show 
+    Sockets > 4
+    SetFontSize 40
+    SetBackgroundColor 0 100 0
+
+Show
+    SocketGroup RGB
+    SetFontSize 32
+    SetBorderColor 255 0 0
+
+Show
+    Rarity >= Rare
+    SetFontSize 32
+
+Show
+    Class Gem Flask Currency Quest Map Jewel Card
+    SetFontSize 30
+
+
+Show
+    Rarity = Normal
+    SetFontSize 28
+
+Show
+    SetFontSize 18
